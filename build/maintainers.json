@@ -461,6 +461,11 @@
     "mjysci",
     "TonyRL"
   ],
+  "/apnews/nav/:nav{.*}?": [
+    "zoenglinghou",
+    "mjysci",
+    "TonyRL"
+  ],
   "/app-center/release/:user/:app/:distribution_group": [
     "Rongronggg9"
   ],
@@ -1398,7 +1403,8 @@
   ],
   "/cnki/journals/:name": [
     "Fatpandac",
-    "Derekmini"
+    "Derekmini",
+    "pseudoyu"
   ],
   "/cnljxh/:category?/:id?": [],
   "/cntheory/paper/:id?": [
@@ -1876,7 +1882,8 @@
     "nczitzk"
   ],
   "/douban/topic/:id/:sort?": [
-    "LogicJake"
+    "LogicJake",
+    "pseudoyu"
   ],
   "/douban/movie/ustop": [
     "DIYgod"
@@ -2119,7 +2126,8 @@
   ],
   "/fda/cdrh/:titleOnly?": [],
   "/fediverse/timeline/:account": [
-    "DIYgod"
+    "DIYgod",
+    "pseudoyu"
   ],
   "/feng/forum/:id/:type?": [
     "TonyRL"
@@ -2728,6 +2736,9 @@
   ],
   "/gov/pbc/zcyj": [
     "Fatpandac"
+  ],
+  "/gov/pudong/zwgk": [
+    "himingway"
   ],
   "/gov/safe/business/:site?": [
     "nczitzk"
@@ -3490,7 +3501,11 @@
   "/iwara/subscriptions": [
     "FeCCC"
   ],
-  "/ixigua/user/video/:uid/:disableEmbed?": [],
+  "/ixigua/user/video/:uid/:disableEmbed?": [
+    "FlashWingShadow",
+    "Fatpandac",
+    "pseudoyu"
+  ],
   "/j-test/news": [
     "kuhahku"
   ],
@@ -6442,6 +6457,9 @@
   "/tju/yzb/:type?": [
     "SuperPung"
   ],
+  "/tkww/:column{.+}?": [
+    "quiniapiezoelectricity"
+  ],
   "/tokeninsight/blog/:lang?": [
     "fuergaosi233"
   ],
@@ -7559,8 +7577,14 @@
     "junbaor",
     "yikZero"
   ],
+  "/zjut/cs/:type": [
+    "zhullyb"
+  ],
   "/zjut/da/:type": [
     "yikZero"
+  ],
+  "/zjut/jwc/:type": [
+    "zhullyb"
   ],
   "/zjuvag/blog": [
     "KaiyoungYu"
